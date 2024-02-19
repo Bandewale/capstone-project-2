@@ -1,0 +1,48 @@
+.welcome{
+    position:relative;
+    bottom:740px;
+    left:880px;
+    font-size:48px;
+
+}
+.myimage{
+  
+  position:relative;
+    bottom:230px;
+    text-align: center;
+    font-size:25px;
+
+}
+.kmg{
+    position:relative;
+    height: 250px;
+    border-radius: 25%;
+    left:8px;
+    padding-top: 30px;
+    padding-bottom: 10px;;
+
+}
+.toddler{
+    float:left;
+    padding-right: 30px;
+    padding-top: 50px;
+    padding-left: 25px;
+}
+.excel{
+    float:right;
+}
+.ftext{
+    font-size: 23px;
+}
+.wd{
+    float:left;
+}
+.xcel{
+    float:right;
+}
+.contact{
+    clear:both;
+}
+.footer{
+    background-color: coral;
+}
